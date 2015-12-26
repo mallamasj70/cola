@@ -1,4 +1,3 @@
-<!--nueva modificación-->
 <html>
 	<head>
 	</head>
