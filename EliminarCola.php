@@ -1,5 +1,3 @@
-<!--modificaciones varias-->
-<!--modifico otra vez-->
 <HTML>
 	<HEAD>
 		<TITLE>Unidad 4</TITLE>
